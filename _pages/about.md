@@ -35,5 +35,13 @@ Coming Soon~
 - 🏸 Sports. I like cycling, badminton and table tennis.
 - 📷 Photography.
 
+# 👩🏻‍🎓 Academic Services
+## Program Committee Member
+- AAAI 2026
+- ISSRE 2025
+
 # 💻 Internships
 - *2025.03 - Now*, Huzhou Institute of Industrial Control Technology, China.
+
+# 👬🏻 Friendly Links
+- [Junyi Shen](https://j1shen.github.io/)
