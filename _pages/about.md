@@ -22,8 +22,25 @@ redirect_from:
 
 My research interest lies in the safety of Cyber-Physical System (CPS) and Embodied AI. 
 
+# 🔥 News
+- *2026.02*: &nbsp;🎉🎉 FlowHijack is accepted at CVPR 2026!
+- *2026.01*: &nbsp;🎉🎉 CrossPL is accepted at ICLR 2026!
+
 # 📝 Publications 
-Coming Soon~
+<!-- Coming Soon~ -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/flowhijack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FlowHijack: A Dynamics-Aware Backdoor Attack on Flow-Matching Vision-Language-Action Models](https://anxy02.github.io/)
+
+**Xinyuan An**, Tao Luo, Gengyun Peng, Yaobing Wang, Kui Ren, Dongxia Wang
+
+[**Project**](https://anxy02.github.io/) <strong><span class='show_paper_citations' data='IAX4uAkAAAAJ:u5HHmVD_uO8C'></span></strong>
+- Vision-Language-Action models relying on flow-matching vector-field dynamics suffer from unexamined security risks. We propose FlowHijack, the first backdoor attack targeting such continuous policies. It stealthily manipulates action generation while maintaining benign performance and kinematic normality, exposing critical vulnerabilities in embodied models and demanding dedicated defenses.
+</div>
+</div>
+
+- [CrossPL: Systematic Evaluation of Large Language Models for Cross Programming Language Interoperating Code Generation](https://arxiv.org/abs/2507.19904), Zhanhang xiong, Dongxia Wang, Yuekang Li, **Xinyuan An**, Wenhai Wang, **ICLR 2026**
 
 
 # 📖 Educations
@@ -45,3 +62,4 @@ Coming Soon~
 
 # 👬🏻 Friendly Links
 - [Junyi Shen](https://j1shen.github.io/)
+- [Yuhao Shen](https://sylvan820.github.io/)
