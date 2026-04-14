@@ -65,7 +65,6 @@ Zhanhang Xiong, Dongxia Wang, Yuekang Li, **Xinyuan An**, Wenhai Wang
 </div>
 </div>
 
-- [CrossPL: Systematic Evaluation of Large Language Models for Cross Programming Language Interoperating Code Generation](https://arxiv.org/abs/2507.19904), Zhanhang Xiong, Dongxia Wang, Yuekang Li, **Xinyuan An**, Wenhai Wang, **ICLR 2026**
 
 
 # 📖 Educations
