@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-​I am currently a second-year Ph.D. student at the College of Control Science and Engineering, Zhejiang Univeristy, supervised by [Prof. Jingyi Wang](https://wang-jingyi.github.io/). Previously, I received the B.Eng. degree from Zhejiang University in 2024.
+​I am currently a third-year Ph.D. student at the College of Control Science and Engineering, Zhejiang Univeristy, supervised by [Prof. Jingyi Wang](https://wang-jingyi.github.io/). Previously, I received the B.Eng. degree from Zhejiang University in 2024.
 
 
 My research interest lies in the safety of Cyber-Physical System (CPS) and Embodied AI. 
@@ -78,12 +78,16 @@ Zhanhang Xiong, Dongxia Wang, Yuekang Li, **Xinyuan An**, Wenhai Wang
 
 # 👩🏻‍🎓 Academic Services
 ## Program Committee Member
-- AAAI 2026
+- ICLR 2027
+- NIPS 2026
+- AAAI 2026, 2027
 - ISSRE 2025
 
 # 💻 Internships
-- *2025.03 - Now*, Huzhou Institute of Industrial Control Technology, China.
+- *2026.07 - Now*, Ant Group.
+- *2025.03 - 2026.06*, Huzhou Institute of Industrial Control Technology.
 
 # 👬🏻 Friendly Links
 - [Junyi Shen](https://j1shen.github.io/)
 - [Yuhao Shen](https://sylvan820.github.io/)
+- [Zhanhang Xiong](https://newxzh.github.io/)
